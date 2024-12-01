@@ -1,0 +1,7 @@
+C:\Users\frust\source\repos\HomeWorkOptimization\HomeWorkOptimization\bin\Debug\HomeWorkOptimization.exe.config
+C:\Users\frust\source\repos\HomeWorkOptimization\HomeWorkOptimization\bin\Debug\HomeWorkOptimization.exe
+C:\Users\frust\source\repos\HomeWorkOptimization\HomeWorkOptimization\bin\Debug\HomeWorkOptimization.pdb
+C:\Users\frust\source\repos\HomeWorkOptimization\HomeWorkOptimization\obj\Debug\HomeWorkOptimization.csproj.AssemblyReference.cache
+C:\Users\frust\source\repos\HomeWorkOptimization\HomeWorkOptimization\obj\Debug\HomeWorkOptimization.csproj.CoreCompileInputs.cache
+C:\Users\frust\source\repos\HomeWorkOptimization\HomeWorkOptimization\obj\Debug\HomeWorkOptimization.exe
+C:\Users\frust\source\repos\HomeWorkOptimization\HomeWorkOptimization\obj\Debug\HomeWorkOptimization.pdb
